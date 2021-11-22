@@ -1,5 +1,5 @@
 package tests;
 
 public enum SearchWords {
-    IPHONE, IPAD
+    IPHONE, IPAD, AIRPODS, MACBOOK
 }
